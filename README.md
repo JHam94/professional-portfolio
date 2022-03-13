@@ -10,3 +10,7 @@ This challenge required a professional portfolio to be built from scratch utiliz
 ## Website
 Link to deployed application: 
 
+
+![ScreenShot1](https://user-images.githubusercontent.com/98374207/158083514-89aff2c0-c639-44f6-a5fe-8ee6f95a903c.png)
+![ScreenShot2](https://user-images.githubusercontent.com/98374207/158083518-332de874-0758-4b0f-a85d-50803dfb709d.png)
+![ScreenShot3](https://user-images.githubusercontent.com/98374207/158083519-11fe2ab0-747f-4ba7-8586-dad08b475253.png)
