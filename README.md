@@ -8,7 +8,7 @@ This challenge required a professional portfolio to be built from scratch utiliz
 * CSS
 
 ## Website
-Link to deployed application: 
+Link to deployed application: https://jham94.github.io/professional-portfolio/
 
 
 ![ScreenShot1](https://user-images.githubusercontent.com/98374207/158083514-89aff2c0-c639-44f6-a5fe-8ee6f95a903c.png)
